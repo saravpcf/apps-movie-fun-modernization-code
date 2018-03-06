@@ -5,3 +5,5 @@ CREATE TABLE album_scheduler_task (
 );
 
 INSERT INTO album_scheduler_task (started_at) VALUES (NULL);
+
+

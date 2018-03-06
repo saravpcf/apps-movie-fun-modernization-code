@@ -1,4 +1,4 @@
-package org.superbiz.moviefun.blobstore;
+package org.superbiz.moviefun.albums;
 
 import java.io.InputStream;
 

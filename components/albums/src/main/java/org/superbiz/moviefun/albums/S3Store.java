@@ -1,4 +1,4 @@
-package org.superbiz.moviefun.blobstore;
+package org.superbiz.moviefun.albums;
 
 import com.amazonaws.services.s3.AmazonS3;
 import com.amazonaws.services.s3.model.ObjectMetadata;

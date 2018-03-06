@@ -30,7 +30,6 @@ public class Album implements Serializable {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
-
     private String artist;
     private String title;
     private int year;
