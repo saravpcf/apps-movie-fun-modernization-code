@@ -1,5 +1,7 @@
 package org.superbiz.moviefun.blobstore;
 
+import org.springframework.context.annotation.Configuration;
+
 import java.io.IOException;
 import java.util.Optional;
 
